@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jadon Blog</title>
+    <link>https://junspace.com/post/</link>
+    <description>Recent content in Posts on Jadon Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Oct 2023 07:17:25 +0800</lastBuildDate><atom:link href="https://junspace.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://junspace.com/post/first/</link>
+      <pubDate>Mon, 02 Oct 2023 07:17:25 +0800</pubDate>
+      
+      <guid>https://junspace.com/post/first/</guid>
+      <description>h�e�l�l�o� �w�o�r�l�d�� �</description>
+    </item>
+    
+    <item>
+      <title>An Example Post</title>
+      <link>https://junspace.com/post/third/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://junspace.com/post/third/</guid>
+      <description>Clean White Theme for Hugo hello</description>
+    </item>
+    
+    <item>
+      <title>Clean White Theme for Hugo</title>
+      <link>https://junspace.com/post/readme/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://junspace.com/post/readme/</guid>
+      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
+    </item>
+    
+    <item>
+      <title>An Example Post second</title>
+      <link>https://junspace.com/post/second/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://junspace.com/post/second/</guid>
+      <description>hello world</description>
+    </item>
+    
+    <item>
+      <title>如何从外部访问Kubernetes集群中的应用？</title>
+      <link>https://junspace.com/2017/11/28/access-application-from-outside/</link>
+      <pubDate>Tue, 28 Nov 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://junspace.com/2017/11/28/access-application-from-outside/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;我们知道，kubernetes的Cluster Network属于私有网络，只能在cluster Network内部才能访问部署的应用，那如何才能将Kubernetes集群中的应用暴露到外部网络，为外部用户提供服务呢？本文探讨了从外部网络访问kubernetes cluster中应用的几种实现方式。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
